@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_to_do_list/Src/Screens/intro_screen.dart';
+import 'package:flutter_to_do_list/Src/Screens/onboarding_screen.dart';
 import 'package:get/get.dart';
 
 class SplashScreen extends StatefulWidget {
@@ -19,7 +19,7 @@ class _SplashScreenState extends State<SplashScreen> {
   _navigateToHome() async {
     await Future.delayed(Duration(milliseconds: 3500), () {});
     Get.offAll(
-      () => const IntroScreen(),
+      () => const OnboardingScreen(),
     );
   }
 
