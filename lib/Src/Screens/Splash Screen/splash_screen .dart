@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_to_do_list/Src/Screens/onboarding_screen.dart';
+import 'package:flutter_to_do_list/Src/Screens/Onboarding%20Screens/onboarding_screen.dart';
 import 'package:get/get.dart';
 
 class SplashScreen extends StatefulWidget {

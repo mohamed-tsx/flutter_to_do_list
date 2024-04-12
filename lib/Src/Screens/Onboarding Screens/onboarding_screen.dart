@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_to_do_list/Src/Screens/home_screen.dart';
-import 'package:flutter_to_do_list/Src/Screens/onboarding_page1.dart';
-import 'package:flutter_to_do_list/Src/Screens/onboarding_page3.dart';
-import 'package:flutter_to_do_list/Src/Screens/onboarding_page_2.dart';
+import 'package:flutter_to_do_list/Src/Screens/Home%20Screen/home_screen.dart';
+import 'package:flutter_to_do_list/Src/Screens/Onboarding%20Screens/onboarding_page1.dart';
+import 'package:flutter_to_do_list/Src/Screens/Onboarding%20Screens/onboarding_page3.dart';
+import 'package:flutter_to_do_list/Src/Screens/Onboarding%20Screens/onboarding_page_2.dart';
 import 'package:get/get.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
